@@ -1,4 +1,0 @@
-D:/Desktop/embedded_devops/embedded-week1-starter/build/CMakeFiles/firmware.elf.dir
-D:/Desktop/embedded_devops/embedded-week1-starter/build/CMakeFiles/test.dir
-D:/Desktop/embedded_devops/embedded-week1-starter/build/CMakeFiles/edit_cache.dir
-D:/Desktop/embedded_devops/embedded-week1-starter/build/CMakeFiles/rebuild_cache.dir

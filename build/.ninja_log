@@ -1,8 +1,0 @@
-# ninja log v7
-16	193	7823063541976804	CMakeFiles/firmware.elf.dir/startup/startup_stm32f401xc.s.obj	eb910b454d69154b
-52	460	7823063542326535	CMakeFiles/firmware.elf.dir/src/app.c.obj	7053346328fd9880
-88	498	7823063542676529	CMakeFiles/firmware.elf.dir/src/system_stm32f4xx.c.obj	50ef68848c72d317
-64	515	7823063542456530	CMakeFiles/firmware.elf.dir/src/hal_gpio.c.obj	fa71fef73db85502
-40	523	7823063542206534	CMakeFiles/firmware.elf.dir/src/main.c.obj	c3dc6c1c48d1ee5
-76	546	7823063542566557	CMakeFiles/firmware.elf.dir/src/syscalls.c.obj	7565db961f79fb20
-547	1171	7823063547276510	firmware.elf	e322e6f7b0c922ce
